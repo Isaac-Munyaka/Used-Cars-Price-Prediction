@@ -10,5 +10,5 @@ There is an increasingly high demand for used cars due to their relatively lower
 Objectives
 Research questions;
 
-What is the relationship between car price and other predictor variables?
+What's the relationship between car price and other predictor variables?
 Which combination of features provide the best accurate prediction of car prices?
